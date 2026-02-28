@@ -5,7 +5,7 @@
 **Focus:** Computer Vision · CNN · Image Classification · AI for Environmental Safety  
 
 🔗 **GitHub Repository:**  
-https://github.com/vs98108/mini-project-5  
+https://github.com/aristidekanamugire/CNN-Image-Classifier/
 
 ---
 
