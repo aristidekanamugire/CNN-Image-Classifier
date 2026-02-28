@@ -199,10 +199,10 @@ Stored in `/images`:
 
 ---
 
-## 🧪 10. Setup & Execution
+##  📚 10. References
 
-### Clone Repository
+Kaggle Dataset:
+https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset
 
-```bash
-git clone https://github.com/vs98108/mini-project-5.git
-cd mini-project-5
+TensorFlow Documentation:
+https://www.tensorflow.org/api_docs
